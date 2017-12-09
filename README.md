@@ -1,5 +1,9 @@
 # Bot Rescuer
 
+Colorama
+  - ANSI Escape character sequences which can be used to produced coloured terminal text.
+  import colorama
+  
 Language: Python
 
 Goal : To rescue everyone.
